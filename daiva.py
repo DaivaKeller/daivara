@@ -1,0 +1,1 @@
+print ("daiva hat gelernt")
